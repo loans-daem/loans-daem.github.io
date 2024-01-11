@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.app.we_give",
-    "sha256_cert_fingerprints":
-    ["3C:18:27:0E:4A:BA:03:76:06:C0:9A:86:2C:22:C8:5F:FF:92:D6:2A:53:91:29:04:86:A8:E3:70:8B:12:D7:7A"]
-  }
-}]
